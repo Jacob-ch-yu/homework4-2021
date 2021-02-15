@@ -79,7 +79,7 @@ td{
 /*Req 6b*/
 .colhead{
   color: #FFFFFF;
-  margin: auto;
+  vertical-align: middle;
   text-align: center;
   min-width: 125px;
   padding: 10px;
