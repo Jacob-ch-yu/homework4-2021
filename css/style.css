@@ -24,7 +24,6 @@ tr{
 
 /*END STARTER CODE*/
 
-
 body{
   font-family: 'Andika', sans-serif;
   color: #000000;
@@ -55,7 +54,7 @@ p{
 
 a{
   font-size: 16px;
-  color: #C12258;
+  color: #B21F50;
   text-decoration-line: underline;
   text-decoration-style: wavy;
   /*Req 4*/
